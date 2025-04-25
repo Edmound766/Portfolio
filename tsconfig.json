@@ -8,11 +8,6 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
-      "@assets/*": ["./src/assets/*"],
-      "@components/*": ["./src/app/components/*"],
-      "@utils/*": ["./src/utils/*"],
-      "@pages/*": ["./srcpages/*"],
-      "@hooks/*": ["./src/hooks/*"],
     }
   }
 }
